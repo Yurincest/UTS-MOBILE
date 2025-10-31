@@ -8,7 +8,7 @@
 
 ---
 
-## Deskripsi Tugas (Sesuai PDF UTS)
+## Deskripsi Tugas
 
 > **Tugas:** Pengembangan Aplikasi Sederhana dengan Widget View dan Layout  
 >  
@@ -51,7 +51,7 @@
 
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/Yurincest/UTSMOBILE.git
+   git clone https://github.com/Yurincest/UTS-MOBILE.git
 
 2. Buka project di Android Studio
 3. Build & Run di emulator atau perangkat Android
