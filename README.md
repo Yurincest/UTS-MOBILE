@@ -12,9 +12,9 @@
 
 > **Tugas:** Pengembangan Aplikasi Sederhana dengan Widget View dan Layout  
 >  
-> Pada UTS kali ini, Anda diminta untuk mengembangkan sebuah aplikasi mobile sederhana yang memanfaatkan **widget view dan layout** yang telah Anda pelajari di kelas. Aplikasi yang Anda kembangkan harus menampilkan informasi yang mudah diakses dan menggunakan berbagai komponen UI untuk menciptakan antarmuka yang interaktif dan ramah pengguna.  
+> Pada UTS kali ini, saya diminta untuk mengembangkan sebuah aplikasi mobile sederhana yang memanfaatkan **widget view dan layout** yang telah saya pelajari di kelas. Aplikasi yang saya kembangkan harus menampilkan informasi yang mudah diakses dan menggunakan berbagai komponen UI untuk menciptakan antarmuka yang interaktif dan ramah pengguna.  
 >  
-> **Tema Aplikasi:** Anda diminta untuk membuat **Aplikasi Info Pariwisata** yang menampilkan daftar tempat wisata di Indonesia, lengkap dengan informasi seperti deskripsi singkat, lokasi, dan gambar.
+> **Tema Aplikasi:** Saya diminta untuk membuat **Aplikasi Info Pariwisata** yang menampilkan daftar tempat wisata di Indonesia, lengkap dengan informasi seperti deskripsi singkat, lokasi, dan gambar.
 
 ---
 
