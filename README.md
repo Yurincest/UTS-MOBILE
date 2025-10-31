@@ -4,7 +4,7 @@
 **Tahun Akademik:** 2024/2025 - Semester 5  
 **Nama:** SO OSVALDO  
 **NIM:** 322310016  
-**GitHub:** [https://github.com/Yurincest/UTSMOBILE](https://github.com/Yurincest/UTSMOBILE)
+**GitHub:** [https://github.com/Yurincest/UTS-MOBILE](https://github.com/Yurincest/UTS-MOBILE)
 
 ---
 
